@@ -5,9 +5,9 @@ def display_board
   welcome = "Welcome to Tic Tac Toe"
   box = "   "+"|"+"   "+"|"+"   "
   line = "------------"
-  print box \n
-  print line \n
-  print box \n
-  print line \n
-  print box \n
+  print box 
+  print line 
+  print box
+  print line
+  print box
 end
